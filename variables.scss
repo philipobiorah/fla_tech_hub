@@ -1,8 +1,13 @@
 $color:green;
+$bgcolor:burlywood;
  h1{
     color: $color;
  }
 
  ol{
      color:$color;
+ }
+ 
+ body{
+    $bgcolor: burlywood;
  }
